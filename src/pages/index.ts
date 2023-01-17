@@ -1,0 +1,8 @@
+export { default as HomePage} from "./home" 
+export { default as WorkPage} from "./work" 
+export { default as ProfessorPage} from "./professor" 
+export { default as RevizePage } from "./revize"
+export { default as ChatPage } from "./chat"
+export { default as JohnDoeChatPage } from "./johndoechatPage"
+export { default as TasksPage } from "./tasksPage"
+export { default as ContactsPage } from "./contactsPage"
